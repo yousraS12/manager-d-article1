@@ -1,0 +1,1 @@
+"Ce travail consiste à configurer PDO pour gérer les erreurs avec le mode exception, tester une requête erronée, puis enregistrer les erreurs dans un fichier log afin d'améliorer la sécurité au lieu de les afficher à l'utilisateur."
